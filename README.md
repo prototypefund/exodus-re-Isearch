@@ -47,6 +47,7 @@ The software has a lot of history (as one can see from the above copyright). For
 
 This project was funded through the NGI0 Discovery Fund, a fund established by NLnet with financial support from the European Commission's Next Generation Internet programme, under the aegis of DG Communications Networks, Content and Technology under grant agreement No 825322.
 
+The extension of the engine to support IPFS and a number of additional document formats and data types was made possible by the Federal Ministry of Education and Research Germany under grant agreement No 01IS22S32.
 
 
 <IMG SRC="https://nlnet.nl/image/logo_nlnet.svg" ALT="NLnet Foundation" height=100> <IMG SRC="https://nlnet.nl/logo/NGI/NGIZero-green.hex.svg" ALT="NGI0 Search" height=100> &nbsp; &nbsp; <IMG SRC="https://ngi.eu/wp-content/uploads/sites/77/2017/10/bandiera_stelle.png" ALT="EU" height=100>
